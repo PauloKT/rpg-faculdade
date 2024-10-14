@@ -5,7 +5,8 @@
 
 - [Felipe Shinkae](https://github.com/fshinkae)
 - [Fabio Henrique Massucatto](https://github.com/fabiomassucatto)
-- - [Heitor Santos Cortes](https://github.com/heitorpcrl)
+- [Heitor Santos Cortes](https://github.com/heitorpcrl)
+- [Paulo Henrique Amaral](https://github.com/PauloKT)
 
 ### Descrição
 
