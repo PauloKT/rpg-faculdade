@@ -5,8 +5,8 @@
 
 - [Felipe Shinkae](https://github.com/fshinkae)
 - [Fabio Henrique Massucatto](https://github.com/fabiomassucatto)
-- - [Heitor Santos Cortes](https://github.com/heitorpcrl)
-
+- [Heitor Santos Cortes](https://github.com/heitorpcrl)
+- [Paulo Henrique Amaral](https://github.com/PauloKT)
 ### Descrição
 
 Trabalho avaliativo ministrado pelo Prof. Richard referente a disciplina de Técnicas de Programação do curso de Análise e Desenvolvimento de Sistemas da faculdades AEMS.
